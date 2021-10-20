@@ -1,0 +1,22 @@
+{
+  "name": "aws-dynamo-scan",
+  "version": "1.0.0",
+  "description": "Simple scripts to interact with DynamoDB using aws-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peyssoa/aws-dynamo-scan.git"
+  },
+  "author": "@peyssoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peyssoa/aws-dynamo-scan/issues"
+  },
+  "homepage": "https://github.com/peyssoa/aws-dynamo-scan#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1011.0"
+  }
+}
